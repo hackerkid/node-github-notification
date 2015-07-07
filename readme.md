@@ -1,14 +1,17 @@
 #Github Notification for Node
 > A node.js module for getting the Github notifications of a user
+
 ## Install
 
 ```
-$ npm install is-negative
+$ npm install github-notification
 ```
 
 ## Usage 
 
 ```javascript
+
+var github = require("github-notification");
 
 github.get(GITHUB_USERNAME, PASSWORD, function(res) {
 	console.log(res); //retrieves the unread notifications in JSON format
