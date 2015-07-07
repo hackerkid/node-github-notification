@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/hackerkid/node-github-notification#readme",
   "dependencies": {
-    "xmlhttprequest": "^3.1.0"
+    "xmlhttprequest": "^1.7.0"
   }
 }
