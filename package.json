@@ -1,0 +1,29 @@
+{
+  "name": "github-notification",
+  "version": "1.0.0",
+  "description": "Get github notifications of a user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackerkid/node-github-notification.git"
+  },
+  "keywords": [
+    "github",
+    "notification",
+    "github-api",
+    "github-notifications",
+    "notifications"
+  ],
+  "author": "Vishnu Ks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackerkid/node-github-notification/issues"
+  },
+  "homepage": "https://github.com/hackerkid/node-github-notification#readme",
+  "dependencies": {
+    "xmlhttprequest": "^3.1.0"
+  }
+}
