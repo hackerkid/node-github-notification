@@ -1,6 +1,6 @@
 {
   "name": "github-notification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get github notifications of a user",
   "main": "index.js",
   "scripts": {
