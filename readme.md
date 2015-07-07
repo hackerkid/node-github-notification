@@ -1,5 +1,5 @@
 #Github Notification for Node
-> A node.js module for getting the Github notifications of a user
+> A node.js module for getting the unread Github notifications of a user
 
 ## Install
 
