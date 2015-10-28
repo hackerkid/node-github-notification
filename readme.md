@@ -13,7 +13,7 @@ $ npm install github-notification
 
 var github = require("github-notification");
 
-github.get(GITHUB_USERNAME, PASSWORD, function(res) {
+github.get(GITHUB_USERNAME, PASSWORD, function(err, res) {
 	console.log(res); //retrieves the unread notifications in JSON format
 	
 });
